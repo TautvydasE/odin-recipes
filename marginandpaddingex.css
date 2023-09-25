@@ -1,0 +1,22 @@
+.one {
+    background-color: pink;
+    border-color: blue;
+    border-radius: 5px;
+    padding: 32px;
+    margin: 12px;
+    border: solid;
+}
+
+.two {
+    background-color: lightblue;
+    border: solid red 2px;
+}
+
+.three {
+    background-color: bisque;
+    padding: 32px;
+    margin-top: 48px;
+    width: 200px;
+    margin-left: auto;
+    border: red solid 3px;
+}
